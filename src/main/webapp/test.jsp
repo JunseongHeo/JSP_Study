@@ -4,9 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>JSP 테스트페이지</title>
 </head>
 <body>
-
+	<h2>Test</h2>
+	WellCome!
 </body>
 </html>
